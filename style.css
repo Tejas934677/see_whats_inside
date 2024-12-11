@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #cee3f1; /* Light blue color */
+    background-image: url('https://imgs.search.brave.com/AMXZpFRgFXSHa1KssHiZXb93Gu3mZzuYZVsrC1K1dRc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92ZW5u/Z2FnZS13b3JkcHJl/c3MuczMuYW1hem9u/YXdzLmNvbS91cGxv/YWRzLzIwMTgvMTEv/MTUtUHJlc2VudGF0/aW9uLUJhY2tncm91/bmRzLmpwZw.jpg'); /* Path to your background image */
+    background-size: cover; /* Cover the entire page */
+    background-repeat: no-repeat; /* Don't repeat the background image */
+    background-attachment: fixed; /* Fixed background */
+    color: #431b1b; /* Text color */
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    text-align: center;
+    margin: 20px;
+}
+
